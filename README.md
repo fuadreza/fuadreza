@@ -7,6 +7,9 @@
   <a href="https://www.linkedin.com/in/fuad-reza-pahlevi/" target="_blank">
     <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" height="30">
   </a> &nbsp;
+  <a href="https://medium.com/@fuadreza1011" target="_blank">
+    <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Medium_colored_svg-512.png" height="30">
+  </a> &nbsp;
   <a href="https://pub.dev/publishers/fuadreza.top/packages" target="_blank">
     <img src="https://pub.dev/static/hash-e4t06sub/img/pub-dev-logo.svg" height="30">
   </a> &nbsp;
